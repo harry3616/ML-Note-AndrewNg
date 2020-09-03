@@ -1,4 +1,4 @@
-# ML-project-AndrewNg
+# ML-Note-AndrewNg
 Author-Su,heng-ming(Harrysu)\
 Stanford University machine learning notes (Coursera).\
 Written by chinese. \
